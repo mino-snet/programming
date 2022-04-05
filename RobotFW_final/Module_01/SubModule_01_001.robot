@@ -4,7 +4,6 @@ Suite Teardown    This Suite Teardown
 Resource          ..${/}Resources${/}SeleniumKeywords.robot
 
 *** Variables ***
-${testdatapath}    ${CURDIR}${/}SubModule_01_001_testdata${/}
 
 *** Test Cases ***
 WP-number Add two most expansive items from a given category to the shopping cart
